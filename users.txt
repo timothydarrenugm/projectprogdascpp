@@ -1,3 +1,4 @@
 Ibat 1234 Ja'far_Shodiq_Hibatullah 2007 Asrama_Bulaksumur Jogja Jogja Jl.Kaliurang 123456 90 Jogja->Solo|$10
-Lova 1234 Lova 2007 - Jogya Jogya Jl.Kaliurang 1234 0 NULL
+Lova 1234 Amela_Luna_Indralova 2007 - Jogya Jogya Jl.Kaliurang 1234 0 NULL
 Timot 1234 Timothy_Darren 2007 Jakal_atas Jogya Jogya Jl.kaliurang 1234 0 NULL
+
